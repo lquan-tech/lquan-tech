@@ -12,7 +12,7 @@
     <img src="https://github.com/Suvraneel/Suvraneel/assets/63473496/6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55" height="35" width="auto">
     <span>&nbsp;&nbsp;&nbsp;&nbsp;Connect with me on:</span>
   </h2>
-  <a href="https://twitter.com/SuvraneelB](https://x.com/LongQuan1111">
+  <a href="https://x.com/LongQuan1111">
     <img src="https://user-images.githubusercontent.com/63473496/212667318-969259c1-f51a-47a4-a3e3-8675138bdcec.gif" height="60" width= auto>
   </a>
   <a href="https://www.facebook.com/longquann12">
