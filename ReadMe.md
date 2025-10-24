@@ -1,35 +1,45 @@
-<h1 align="center">Hi 👋, I'm lquan</h1>
-<div align="center">
+<div>
+  <h1>Hi 👋, I'm Iquan</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+developer%2C+always+learning." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+developer%2C+always+learning.;Professional+Gacha+Gamer+%F0%9F%8E%B2" alt="Typing SVG" />
   </a>
 </div>
 
+<!-- About Me -->
+
+- 🎮 **Game dev** & **web design** — where creativity meets tech, **fueled by a love for gacha game**.
+- 🌏 Designing and developing from **Da Nang city, Viet Nam**.
+- 📖 Currently learning **Unity**, **C++** and **Java**.
+
+<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" height="20" style="vertical-align: middle; margin-bottom: 2px;" /> Languages and Tools:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00CED1?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-20B2AA?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Java-40E0D0?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-48D1CC?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-5F9EA0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-00BFFF?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/CSS3-66CDAA?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/HTML5-7FFFD4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Node.js-008B8B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-2E8B57?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4682B4?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL_Server-1E90FF?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Photoshop-00CED1?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Blender-20B2AA?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Figma-40E0D0?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Unity-5F9EA0?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Git-00BFFF?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 
+<h3><img src="https://cdn.simpleicons.org/discord/5865F2" width="20" height="20" alt="Discord"/>
+Discord Status<t width="20" height="20" style="vertical-align: middle; margin-bottom: 2px;" /></h3>
 
-- 👨‍💻 All of my projects are available at [https://lquan.pages.dev/](https://lquan.pages.dev/)
+[![Discord Presence](https://lanyard.cnrad.dev/api/809322893942849587)](https://discord.com/users/809322893942849587)
 
-- 💬 Ask me about **gacha game**
 
-- 📫 How to reach me **lquan1234as@gmail.com**
-
-<div id="connect">
-  <h2 align="left" style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Suvraneel/Suvraneel/assets/63473496/6c2a1b4f-2aeb-4ffd-8a31-47a41810dc55" height="35" width="auto">
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;Connect with me on:</span>
-  </h2>
-  <a href="https://x.com/LongQuan1111">
-    <img src="https://user-images.githubusercontent.com/63473496/212667318-969259c1-f51a-47a4-a3e3-8675138bdcec.gif" height="60" width= auto>
-  </a>
-  <a href="https://www.facebook.com/longquann12">
-    <img src="https://user-images.githubusercontent.com/63473496/212667021-d190985a-6977-41bf-8063-d5c09c8abd8c.gif" height="60" width= auto></a>
-  <a href="https://www.instagram.com/l0g_qun.12/"><img src="https://user-images.githubusercontent.com/63473496/212668023-3f7aa65f-2a55-44f4-bc11-e1e7fea26cab.gif" height="60" width="auto"></a>
-  <a href="https://discord.com/users/809322893942849587/">
-    <img src="https://user-images.githubusercontent.com/63473496/212670527-afccf7ca-4dfc-4f4c-bf91-19287be8a679.gif" height="60" width="auto">
-  </a>
-</div>
-<h3>📊 GitHub Stats<t width="20" height="20" style="vertical-align: middle; margin-bottom: 2px;" /></h3>
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24px" style="vertical-align: middle;"/> GitHub Stats<t width="20" height="20" style="vertical-align: middle; margin-bottom: 2px;" /></h3>
 
 </div>
   <div align="center">
@@ -44,5 +54,4 @@
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=lquan-tech&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00FFFF&line=00FFFF&point=00FFFF&cache_seconds=1800" alt="Contribution Graph" />
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+</div>
