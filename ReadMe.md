@@ -15,7 +15,7 @@
   <a href="https://twitter.com/SuvraneelB](https://x.com/LongQuan1111">
     <img src="https://user-images.githubusercontent.com/63473496/212667318-969259c1-f51a-47a4-a3e3-8675138bdcec.gif" height="60" width= auto>
   </a>
-  <a href="https://www.facebook.com/suvraneel.bhuin](https://www.facebook.com/longquann12">
+  <a href="https://www.facebook.com/longquann12">
     <img src="https://user-images.githubusercontent.com/63473496/212667021-d190985a-6977-41bf-8063-d5c09c8abd8c.gif" height="60" width= auto></a>
   <a href="https://www.instagram.com/l0g_qun.12/"><img src="https://user-images.githubusercontent.com/63473496/212668023-3f7aa65f-2a55-44f4-bc11-e1e7fea26cab.gif" height="60" width="auto"></a>
   <a href="https://discord.com/users/809322893942849587/">
