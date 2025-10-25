@@ -41,27 +41,26 @@ Discord Status<t width="20" height="20" style="vertical-align: middle; margin-bo
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24px" style="vertical-align: middle;"/> GitHub Stats<t width="20" height="20" style="vertical-align: middle; margin-bottom: 2px;" /></h3>
 
-</div>
-  <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lquan-tech&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=00FFFF&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 <div align="center">
-  </div>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lquan-tech&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=lquan-tech&theme=radical&hide_border=true&background=1a1b27&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&cache_seconds=1800" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=lquan-tech&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00FFFF&line=00FFFF&point=00FFFF&cache_seconds=1800" alt="Contribution Graph" />
+  <!-- Hàng 1: Top Languages + Stats -->
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lquan-tech&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=00FFFF&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
+  
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=lquan-tech&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+  <!-- Hàng 2: Streak -->
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=lquan-tech&theme=radical&hide_border=true&background=1a1b27&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" />
+
+</div>
 
 <h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30" /> Connect With Me!</h3>
 
 <div align="left">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/longquann12)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yourprofile)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourprofile](https://www.instagram.com/l0g_qun.12/))
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@lquan1.2)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LongQuan1111)
 
 </div>
 
