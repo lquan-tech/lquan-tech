@@ -52,6 +52,15 @@ Discord Status<t width="20" height="20" style="vertical-align: middle; margin-bo
 
 <div align="center">
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=lquan-tech&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00FFFF&line=00FFFF&point=00FFFF&cache_seconds=1800" alt="Contribution Graph" />
-</div>
 
-</div>
+<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30" /> Connect With Me!</h3>
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/yourprofile](https://www.facebook.com/longquann12))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yourprofile)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourinvite)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yourprofile)
+
+
+
+
